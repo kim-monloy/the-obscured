@@ -1,3 +1,5 @@
+#The Obscured: A Visual Novel
+
 import pygame, sys
 
 game_display = pygame.display.set_mode((1280, 720))
